@@ -20,6 +20,8 @@ public class BigIntegers{
         
         System.out.println(sum);
         System.out.println(mult);
+        
+        scanner.close();
      
     }
 }
